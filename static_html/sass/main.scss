@@ -284,7 +284,6 @@ body > #featured-products {
         width: 200px;
         height: 1px;
         background: $light-grey;
-        display: inline-block;
         float: left;
         margin-top: 1.2rem;
     }
@@ -292,7 +291,6 @@ body > #featured-products {
         width: 200px;
         height: 1px;
         background: $light-grey;
-        display: inline-block;
         float: right;
         margin-top: 1.2rem;
     }
@@ -470,7 +468,6 @@ body > #best-seller {
         width: 200px;
         height: 1px;
         background: $light-grey;
-        display: inline-block;
         float: left;
         margin-top: 1.2rem;
     }
@@ -478,7 +475,6 @@ body > #best-seller {
         width: 200px;
         height: 1px;
         background: $light-grey;
-        display: inline-block;
         float: right;
         margin-top: 1.2rem;
     }
@@ -623,7 +619,6 @@ body > #blog {
         width: 200px;
         height: 1px;
         background: $light-grey;
-        display: inline-block;
         float: left;
         margin-top: 1.2rem;
     }
@@ -631,7 +626,6 @@ body > #blog {
         width: 200px;
         height: 1px;
         background: $light-grey;
-        display: inline-block;
         float: right;
         margin-top: 1.2rem;
     }
@@ -661,10 +655,7 @@ body > #brand-logos {
 }
 // End Brand Logos
 
-
-
 // Footer
-    /* footer */
 #footer {
     color: #666;
     font-size: 0.8rem;
@@ -722,7 +713,6 @@ body > #brand-logos {
       margin-top: 20px;
       display: block; }
   
-  /* footer */
 // End Footer
 
 @media only screen and (min-width: 1200px){
@@ -730,12 +720,6 @@ body > #brand-logos {
         max-width:1350px;
     }
 }
-
-// @media only screen and (max-width: 940px){
-//     .navbar-expand-md .navbar-toggler {
-//         display: none !important;
-//     }
-// }
 
 @media only screen and (max-width: 1750px){
     #nav .main-menu-container {
