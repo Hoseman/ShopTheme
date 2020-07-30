@@ -1,0 +1,2 @@
+# ShopTheme
+Woocommerce Shop Theme
